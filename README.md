@@ -4,72 +4,70 @@
 
 ![](screenshots/1.png)
 
-![](screenshots/2.png)
-
 ## Стартовая страница Keycloak
 
-![](screenshots/3.png)
+![](screenshots/2.png)
 
 ## Панель входа в Keycloak
 
-![](screenshots/4.png)
+![](screenshots/3.png)
 
 ## Создание realm
 
-![](screenshots/5.png)
+![](screenshots/4.png)
 
 ## Создание пользователей
 
-![](screenshots/6.png)
+![](screenshots/5.png)
 
-![](screenshots/7.png)
+![](screenshots/6.png)
 
 ## Проверка наличия созданных пользователей
 
-![](screenshots/8.png)
+![](screenshots/7.png)
 
 ## Развёртывание Nextcloud при помощи Docker
 
+![](screenshots/8.png)
+
 ![](screenshots/9.png)
 
-![](screenshots/10.png)
-
 ## Создание клиента
+
+![](screenshots/10.png)
 
 ![](screenshots/11.png)
 
 ![](screenshots/12.png)
 
-![](screenshots/13.png)
-
 ## Создание ролей
 
-![](screenshots/14.png)
+![](screenshots/13.png)
 
 ## Cтартовая страница Nextcloud
 
-![](screenshots/15.png)
+![](screenshots/14.png)
 
 ## Установка Social Login
 
-![](screenshots/16.png)
+![](screenshots/15.png)
 
 ## Конфигурация для работы с Keycloak
 
-![](screenshots/17.png)
+![](screenshots/16.png)
 
 ## Проверка возможность идентификации через Keycloak
 
-![](screenshots/18.png)
+![](screenshots/17.png)
 
 ## Включение двухфакторной аутентификации
 
-![](screenshots/19.png)
+![](screenshots/18.png)
 
 ## Страница настройки 2FA
 
-![](screenshots/20.png)
+![](screenshots/19.png)
 
 ## Страница ввода одноразового кода
 
-![](screenshots/21.png)
+![](screenshots/20.png)
