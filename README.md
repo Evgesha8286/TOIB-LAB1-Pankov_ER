@@ -26,7 +26,7 @@
 
 ![](screenshots/7.png)
 
-## Развёртывание Nextcloud при помощи Docker
+## Развёртывание WordPress при помощи docker-compose
 
 ![](screenshots/8.png)
 
