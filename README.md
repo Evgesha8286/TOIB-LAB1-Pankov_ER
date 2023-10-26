@@ -2,74 +2,74 @@
 
 ## Развёртывание Keycloak при помощи Docker-compose
 
-![](screenshots/0.png)
-
 ![](screenshots/1.png)
-
-## Стартовая страница Keycloak
 
 ![](screenshots/2.png)
 
-## Панель входа в Keycloak
+## Стартовая страница Keycloak
 
 ![](screenshots/3.png)
 
-## Создание realm
+## Панель входа в Keycloak
 
 ![](screenshots/4.png)
 
-## Создание пользователей
+## Создание realm
 
 ![](screenshots/5.png)
 
-![](screenshots/6.png)
+## Создание пользователей
 
-## Проверка наличия созданных пользователей
+![](screenshots/6.png)
 
 ![](screenshots/7.png)
 
-## Развёртывание Nextcloud при помощи Docker
+## Проверка наличия созданных пользователей
 
 ![](screenshots/8.png)
 
+## Развёртывание Nextcloud при помощи Docker
+
 ![](screenshots/9.png)
 
-## Создание клиента
-
 ![](screenshots/10.png)
+
+## Создание клиента
 
 ![](screenshots/11.png)
 
 ![](screenshots/12.png)
 
-## Создание ролей
-
 ![](screenshots/13.png)
 
-## Cтартовая страница Nextcloud
+## Создание ролей
 
 ![](screenshots/14.png)
 
-## Установка Social Login
+## Cтартовая страница Nextcloud
 
 ![](screenshots/15.png)
 
-## Конфигурация для работы с Keycloak
+## Установка Social Login
 
 ![](screenshots/16.png)
 
-## Проверка возможность идентификации через Keycloak
+## Конфигурация для работы с Keycloak
 
 ![](screenshots/17.png)
 
-## Включение двухфакторной аутентификации
+## Проверка возможность идентификации через Keycloak
 
 ![](screenshots/18.png)
 
-## Страница настройки 2FA
+## Включение двухфакторной аутентификации
 
 ![](screenshots/19.png)
 
-## Страница ввода одноразового кода
+## Страница настройки 2FA
 
 ![](screenshots/20.png)
+
+## Страница ввода одноразового кода
+
+![](screenshots/21.png)
