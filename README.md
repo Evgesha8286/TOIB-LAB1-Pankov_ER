@@ -26,7 +26,7 @@
 
 ![](screenshots/7.png)
 
-## Развёртывание WordPress при помощи docker-compose
+## Развёртывание OwnCloud при помощи docker-compose
 
 ![](screenshots/8.png)
 
