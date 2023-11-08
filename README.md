@@ -26,7 +26,7 @@
 
 ![](screenshots/7.png)
 
-## Развёртывание OwnCloud при помощи docker-compose
+## Развёртывание NextCloud при помощи docker-compose
 
 ![](screenshots/8.png)
 
